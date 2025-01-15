@@ -4,64 +4,64 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm u
+  - Syntax u
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Paradigm h
+  - Programm u
+  - Programming paradigm h
+  - Programming language h
   - Contract
   - Module
-  - Library
+  - Library h
   - Package
   - Component
-  - Framework
+  - Framework h
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering k
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) u
+  - KISS principle h
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
   - Scalar
   - Literal
-  - Expression
+  - Expression u
   - Heap
-  - Function
-  - Procedure
-  - Method
+  - Function u
+  - Procedure h
+  - Method h
   - Class
-  - Prototype
-  - Event
-  - Type
+  - Prototype k
+  - Event k
+  - Type u
   - Flag
-  - Lexical scope
+  - Lexical scope k
   - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Conditions u
+  - Loops u
+  - Assignment u
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions
+  - Naming conventions u
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case u
+  - Snake case h
+  - Kebab case h
   - Trailing commas
   - Return early
   - Fail-fast
@@ -82,19 +82,19 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
+  - Argument u
+  - Parameter u
+  - Pure function h
+  - Lambda expression u
   - Side effects
-  - Closure
+  - Closure k
   - Partial application
   - Currying
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
-  - Listener
+  - Callback u
+  - Listener h
   - Composition
   - Pipe
   - Memoize
@@ -105,15 +105,15 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array u
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
+  - Object u
+  - Collection h
+  - Set u
+  - Hash table u
   - Linked list
   - Doubly list
   - Unrolled list
@@ -123,7 +123,7 @@
   - Deque
   - Tree
   - Graph
-  - Iterator
+  - Iterator u
   - Mutable state
   - Immutable state
   - Serialization
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL u
   - URN
   - URI
 - Process and tools
@@ -146,7 +146,7 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter u
   - Polyfill
   - Interpreter
   - Linker
@@ -160,19 +160,19 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring u
+  - Code review h
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers u
+  - Hard code h
   - Soft code
   - Cryptic code
   - Improbability factor
@@ -186,7 +186,7 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops u
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux h
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS u
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
