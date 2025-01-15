@@ -4,64 +4,64 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm u
-  - Syntax u
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
   - Abstraction
-  - Paradigm h
-  - Programm u
-  - Programming paradigm h
-  - Programming language h
+  - Paradigm: 👂 heard
+  - Programm: 🖐️ used
+  - Programming paradigm: 👂 heard
+  - Programming language: 👂 heard
   - Contract
   - Module
-  - Library h
+  - Library: 👂 heard
   - Package
   - Component
-  - Framework h
+  - Framework: 👂 heard
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering k
+  - Software engineering: 🎓 known
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY) u
-  - KISS principle h
+  - Don't repeat yourself (DRY): 🖐️ used
+  - KISS principle: 👂 heard
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant u
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
   - Literal
-  - Expression u
+  - Expression: 🖐️ used
   - Heap
-  - Function u
-  - Procedure h
-  - Method h
+  - Function: 🖐️ used
+  - Procedure: 👂 heard
+  - Method: 👂 heard
   - Class
-  - Prototype k
-  - Event k
-  - Type u
+  - Prototype: 🎓 known
+  - Event: 🎓 known
+  - Type: 🖐️ used
   - Flag
-  - Lexical scope k
+  - Lexical scope: 🎓 known
   - Code block
-  - Conditions u
-  - Loops u
-  - Assignment u
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions u
+  - Naming conventions: 🖐️ used
   - Coding conventions
-  - Camel case u
-  - Snake case h
-  - Kebab case h
+  - Camel case: 🖐️ used
+  - Snake case: 👂 heard
+  - Kebab case: 👂 heard
   - Trailing commas
   - Return early
   - Fail-fast
@@ -82,19 +82,19 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument u
-  - Parameter u
-  - Pure function h
-  - Lambda expression u
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 👂 heard
+  - Lambda expression: 🖐️ used
   - Side effects
-  - Closure k
+  - Closure: 🎓 known
   - Partial application
   - Currying
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback u
-  - Listener h
+  - Callback: 🖐️ used
+  - Listener: 👂 heard
   - Composition
   - Pipe
   - Memoize
@@ -105,15 +105,15 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object u
-  - Collection h
-  - Set u
-  - Hash table u
+  - Object: 🖐️ used
+  - Collection: 👂 heard
+  - Set: 🖐️ used
+  - Hash table: 🖐️ used
   - Linked list
   - Doubly list
   - Unrolled list
@@ -123,7 +123,7 @@
   - Deque
   - Tree
   - Graph
-  - Iterator u
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL u
+  - URL: 🖐️ used
   - URN
   - URI
 - Process and tools
@@ -146,7 +146,7 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter u
+  - Linter: 🖐️ used
   - Polyfill
   - Interpreter
   - Linker
@@ -160,19 +160,19 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring u
-  - Code review h
+  - Refactoring: 🖐️ used
+  - Code review: 👂 heard
   - Exception
   - Unittesting
-  - git u
-  - Github u
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers u
-  - Hard code h
+  - Magic numbers: 🖐️ used
+  - Hard code: 👂 heard
   - Soft code
   - Cryptic code
   - Improbability factor
@@ -186,7 +186,7 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops u
+  - Nested loops: 🖐️ used
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux h
+  - Linux: 👂 heard
   - Unix
   - BSD
-  - MacOS u
-  - Windows u
+  - MacOS: 🖐️ used
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
