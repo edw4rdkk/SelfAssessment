@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming: 🖐️ used
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -28,15 +28,15 @@
   - Class composition
 - OOP basics
   - Constructor
-  - Operator `new`
+  - Operator `new`: 🎓 known
   - Static method
-  - Method
+  - Method: 🎓 known
   - Async method
-  - Getters, Setters
+  - Getters, Setters: 👂 heard
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance
+  - Inheritance: 🎓 known
   - Parent class
   - Polymorphism
   - Abstract class
